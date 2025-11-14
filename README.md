@@ -1,4 +1,4 @@
-# 🧮 Calculator Application
+# Calculator Application
 
 ### **Elevate Labs Internship – Task 1**
 
